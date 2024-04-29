@@ -1,5 +1,13 @@
 # CHANGELOG.md
 
+## v0.0.7
+
+Fixes :
+ - None
+Features : 
+ - Addition of tag after push to trigger action 
+ 
+
 ## v0.0.6
 
 Fixes:
