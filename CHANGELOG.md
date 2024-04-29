@@ -1,5 +1,12 @@
 # CHANGELOG.md
 
+## v0.0.6
+
+Fixes:
+ - None
+Features: 
+ - Addition of tag to version release commit 
+
 ## v0.0.5
 
 Fixes:
